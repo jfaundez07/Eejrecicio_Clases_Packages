@@ -9,9 +9,7 @@ public class Vehiculo {
 	private int año;
 
 	public Vehiculo(String marca, String modelo, String patente, String color, int año) {
-		/*
-		* Implementar
-		 */
+		/* Implementar */
 	}
 
 }

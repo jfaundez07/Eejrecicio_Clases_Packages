@@ -41,7 +41,6 @@ public class Menu {
 			}
 
 		} while (true);
-
 	}
 
 	public void opciones() {
